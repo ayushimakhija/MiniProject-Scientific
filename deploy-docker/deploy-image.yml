@@ -1,8 +1,8 @@
 ---
-- name: Pull docker image of Scientific_calc
+- name: Pull docker image of scientificcalculator
   hosts: all
   tasks:
-    - name: Pull Scientific_calc devops image
+    - name: Pull scientificcalculator devops image
       docker_image:
-        name: ayushimakhija/Scientific_calc
+        name: ayushimakhija/scientificcalculator
         source: pull
