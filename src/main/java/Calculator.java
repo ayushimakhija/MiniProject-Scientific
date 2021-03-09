@@ -12,7 +12,7 @@ public class Calculator {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
-        double number1=0, number2;
+        double number1=0, number2=0;
         do {
             System.out.println("Scientific Calculator, Choose to perform operation");
             System.out.print("Press 1 to Square root function\nPress 2 to Factorial function\nPress 3 to Natural logrithm\nPress 4 to power function\n" +
@@ -44,7 +44,7 @@ public class Calculator {
                 /*case 2:
                     //Factorial function
                     System.out.println("Factorial is : " + calculator.Fact(number1));
-                    break;
+                    break;*/
                 case 3:
                     // Natural Logrithm
                     System.out.println("Natural logrithm is : " + calculator.Natural_log(number1));
@@ -52,7 +52,7 @@ public class Calculator {
                 case 4:
                     //Power Function
                     System.out.println("power is : " + calculator.Power(number1, number2));
-                    break;*/
+                    break;
                 default:
                     System.out.println("Exiting....");
                     return;
@@ -86,21 +86,18 @@ public class Calculator {
 
   /*  public double Fact(double number1)
             {
-            }
+            }*/
 
 public double Natural_log(double number1) {
         double result = 0;
         try {
-        logger.info("NAtural logrithm of numbers " + number1 + " and " + number2);
+        logger.info("NAtural logrithm of numbers " + number1 );
         if (number1 < 0 || number1 == Double.NaN) {
         result = Double.NaN;
         throw new ArithmeticException("Case of NaN 0.0/0.0");
         } else if (number1 == Double.POSITIVE_INFINITY) {
         result = Double.POSITIVE_INFINITY;
         throw new ArithmeticException("Case of Positive Infinity 1.0/0.0");
-        } else if (number1 ==) {
-        result = Double.NEGATIVE_INFINITY;
-        throw new ArithmeticException("Case of Negative Infinity -1.0/0.0");
         } else {
         result = Math.log(number1);
         }
@@ -132,5 +129,5 @@ public double Power(double number1, double number2) {
         logger.info("Result of power is " + result);
         }
         return result;
-        }*/
+        }
         }

@@ -35,26 +35,25 @@ public class CalculatorTest {
 
     @Test
     public void NaturallogrithmTruePositive(){
-        assertEquals("Natural logrithm for True Positive",
-                assertEquals("Natural logrithm for True Positive",
+        assertEquals("Natural logrithm for True Positive", assertEquals("Natural logrithm for True Positive",
     }
 
     @Test
     public void NaturallogrithmFalsePositive(){
         assertNotEquals("Natural logrithm for False Positive",
                 assertNotEquals("Natural logrithm for False Positive",
-    }
+    }*/
 
     @Test
     public void PowerTruePositive(){
         assertEquals("Power for True Positive", 8, calculator.Power(2,3), DELTA);
-        assertEquals("Power for True Positive", 27.0 , calculator.power(3,3),DELTA);
+        assertEquals("Power for True Positive", 27.0 , calculator.Power(3,3),DELTA);
     }
 
     @Test
     public void PowerTrueNegative(){
         assertNotEquals("Power for True Negative",5, calculator.Power(2,3), DELTA);
         assertNotEquals("Power for True Negative",35.0,calculator.Power(4,3), DELTA);
-    }*/
+    }
     }
 
