@@ -35,8 +35,8 @@ public class CalculatorTest {
 
     @Test
     public void NaturallogrithmTruePositive(){
-        assertEquals("Natural logrithm for True Positive", 1.38629436112, calculator.Natural_log(4),DELTA);
-        assertEquals("Natural logrithm for True Positive",2.07944154168, calculator.Natural_log(8),DELTA);
+        assertEquals("Natural logrithm for True Positive", 1.3862943611198906, calculator.Natural_log(4),DELTA);
+        assertEquals("Natural logrithm for True Positive",2.0794415416798357, calculator.Natural_log(8),DELTA);
     }
 
     @Test
