@@ -42,10 +42,10 @@ public class Calculator {
                     //Square root
                     System.out.println("Square root  is : " + calculator.Square_root(number1));
                     break;
-                /*case 2:
+                case 2:
                     //Factorial function
                     System.out.println("Factorial is : " + calculator.Fact(number1));
-                    break;*/
+                    break;
                 case 3:
                     // Natural Logrithm
                     System.out.println("Natural logrithm is : " + calculator.Natural_log(number1));
@@ -85,9 +85,34 @@ public class Calculator {
 }
 
 
-  /*  public double Fact(double number1)
-            {
-            }*/
+    public double Fact(double number1)
+    {          double result =0;
+                try{
+                logger.info("Factorial  of number " + number1 );
+                if(number1==0){
+                    result =0;
+                }
+                 else if (number1 < 0) {
+                     result = Double.NaN;
+                     throw new ArithmeticException("Factorial of negative number not possible");}
+                else if(number1 ==1){
+                    result=1;
+                }
+                else {
+                    double fact = 1;
+                    for (double i = 2; i <= number1; i++) {
+                        fact = fact * i;
+                    }
+                    result = fact;
+                }
+                }
+                catch (ArithmeticException error) {
+                    logger.error(" Factorial of a number cannot be find" + error.getLocalizedMessage());
+                } finally {
+                    logger.info("Result of Factorial log is " + result);
+                }
+        return result;
+    }
 
 public double Natural_log(double number1) {
         double result = 0;

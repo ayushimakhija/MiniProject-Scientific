@@ -18,7 +18,7 @@ public class CalculatorTest {
         assertNotEquals("Square root for False Positive", 7.0, calculator.Square_root(12.0), DELTA);
     }
 
-    /*@Test
+
     public void FactorialTruePositive(){
         assertEquals("Factorial for True Positive",6, calculator.Fact(3),DELTA);
         assertEquals("Factorial for True Positive",120, calculator.Fact(5), DELTA);
@@ -33,9 +33,10 @@ public class CalculatorTest {
     }
 
 
-    @Test
+   /* @Test
     public void NaturallogrithmTruePositive(){
-        assertEquals("Natural logrithm for True Positive", assertEquals("Natural logrithm for True Positive",
+        assertEquals("Natural logrithm for True Positive",
+                assertEquals("Natural logrithm for True Positive",
     }
 
     @Test
