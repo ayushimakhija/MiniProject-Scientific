@@ -33,18 +33,17 @@ public class CalculatorTest {
     }
 
 
-   /* @Test
+    @Test
     public void NaturallogrithmTruePositive(){
-        assertEquals("Natural logrithm for True Positive",
-                assertEquals("Natural logrithm for True Positive",
+        assertEquals("Natural logrithm for True Positive", 1.38629436112, calculator.Natural_log(4),DELTA);
+        assertEquals("Natural logrithm for True Positive",2.07944154168, calculator.Natural_log(8),DELTA);
     }
 
     @Test
     public void NaturallogrithmFalsePositive(){
-        assertNotEquals("Natural logrithm for False Positive",
-                assertNotEquals("Natural logrithm for False Positive",
-    }*/
-
+        assertNotEquals("Natural logrithm for False Positive", 1.38629436112, calculator.Natural_log(8),DELTA);
+        assertNotEquals("Natural logrithm for False Positive",2.07944154168, calculator.Natural_log(4),DELTA);
+    }
     @Test
     public void PowerTruePositive(){
         assertEquals("Power for True Positive", 8, calculator.Power(2,3), DELTA);
