@@ -2,7 +2,7 @@
 - name: Pull docker image of scientificcalculator
   hosts: all
   tasks:
-    - name: Pull Calculator.Calculator devops image
+    - name: Pull scientificcalculator image
       docker_image:
         name: ayushimakhija/scientificcalculator
         source: pull
