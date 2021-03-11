@@ -9,6 +9,6 @@
         state: present
     - name: Copy jar file to home directory
       copy:
-        src: ./target/Scientific_calc-1.0-SNAPSHOT.jar
+        src: ./target/Scientific_calc-1.0-SNAPSHOTjar-with-dependencies.jar
         dest: ~/
         mode: '0755'
