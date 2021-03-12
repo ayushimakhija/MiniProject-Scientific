@@ -1,0 +1,380 @@
+10/Mar/2021:15:18:29 651 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+10/Mar/2021:15:18:29 673 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+10/Mar/2021:15:18:29 677 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+10/Mar/2021:15:18:29 679 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+10/Mar/2021:15:18:29 686 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+10/Mar/2021:15:18:29 690 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+10/Mar/2021:15:18:29 693 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+10/Mar/2021:15:18:29 695 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+10/Mar/2021:15:18:29 735 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+10/Mar/2021:15:18:29 742 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+10/Mar/2021:15:18:29 746 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+10/Mar/2021:15:18:29 752 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+10/Mar/2021:15:18:29 763 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+10/Mar/2021:15:18:29 769 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+10/Mar/2021:15:18:29 775 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+10/Mar/2021:15:18:29 780 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+10/Mar/2021:15:37:29 064 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+10/Mar/2021:15:37:29 080 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+10/Mar/2021:15:37:29 083 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+10/Mar/2021:15:37:29 088 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+10/Mar/2021:15:37:29 092 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+10/Mar/2021:15:37:29 096 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+10/Mar/2021:15:37:29 100 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+10/Mar/2021:15:37:29 106 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+10/Mar/2021:15:37:29 130 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+10/Mar/2021:15:37:29 138 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+10/Mar/2021:15:37:29 140 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+10/Mar/2021:15:37:29 144 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+10/Mar/2021:15:37:29 146 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+10/Mar/2021:15:37:29 147 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+10/Mar/2021:15:37:29 148 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+10/Mar/2021:15:37:29 149 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+10/Mar/2021:20:00:06 682 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+10/Mar/2021:20:00:06 698 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+10/Mar/2021:20:00:06 701 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+10/Mar/2021:20:00:06 703 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+10/Mar/2021:20:00:06 707 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+10/Mar/2021:20:00:06 710 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+10/Mar/2021:20:00:06 712 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+10/Mar/2021:20:00:06 714 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+10/Mar/2021:20:00:06 733 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+10/Mar/2021:20:00:06 736 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+10/Mar/2021:20:00:06 737 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+10/Mar/2021:20:00:06 737 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+10/Mar/2021:20:00:06 745 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+10/Mar/2021:20:00:06 746 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+10/Mar/2021:20:00:06 752 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+10/Mar/2021:20:00:06 755 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:00:44:27 319 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:00:44:27 366 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:00:44:27 373 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:00:44:27 378 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:00:44:27 399 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:00:44:27 411 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:00:44:27 419 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:00:44:27 429 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:00:44:27 442 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:00:44:27 450 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:00:44:27 456 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:00:44:27 462 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:00:44:27 511 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:00:44:27 515 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:00:44:27 522 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:00:44:27 525 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:00:44:27 535 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:00:44:27 539 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:00:44:27 542 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:00:44:27 545 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:02:58:42 320 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:02:58:42 339 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:02:58:42 352 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:02:58:42 358 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:02:58:42 370 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:02:58:42 381 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:02:58:42 385 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:02:58:42 393 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:02:58:42 402 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:02:58:42 407 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:02:58:42 418 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:02:58:42 422 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:02:58:42 434 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:02:58:42 439 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:02:58:42 443 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:02:58:42 446 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:02:58:42 449 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:02:58:42 452 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:02:58:42 455 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:02:58:42 458 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:02:58:42 493 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:02:58:42 501 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:02:58:42 505 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:02:58:42 507 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:02:58:42 511 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:02:58:42 517 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:02:58:42 525 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:02:58:42 527 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:03:00:11 769 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:03:00:11 785 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:03:00:11 791 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:03:00:11 793 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:03:00:11 797 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:03:00:11 801 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:03:00:11 802 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:03:00:11 805 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:03:00:11 809 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:03:00:11 814 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:03:00:11 815 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:03:00:11 816 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:03:00:11 818 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:03:00:11 819 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:03:00:11 820 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:03:00:11 821 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:03:00:11 822 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:03:00:11 822 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:03:00:11 823 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:03:00:11 827 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:03:00:11 855 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:03:00:11 860 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:03:00:11 864 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:03:00:11 865 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:03:00:11 867 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:03:00:11 867 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:03:00:11 869 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:03:00:11 870 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:19:29:06 568 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:19:29:06 596 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:19:29:06 601 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:19:29:06 602 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:19:29:06 616 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:19:29:06 621 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:19:29:06 632 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:19:29:06 636 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:19:29:06 644 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:19:29:06 649 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:19:29:06 651 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:19:29:06 652 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:19:29:06 665 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:19:29:06 669 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:19:29:06 681 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:19:29:06 684 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:19:29:06 690 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:19:29:06 692 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:19:29:06 698 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:19:29:06 701 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:19:29:06 735 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:19:29:06 743 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:19:29:06 746 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:19:29:06 747 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:19:29:06 753 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:19:29:06 755 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:19:29:06 756 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:19:29:06 758 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:19:29:06 761 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:19:29:06 762 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:19:29:06 768 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 5.0
+11/Mar/2021:19:29:06 770 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 120.0
+11/Mar/2021:19:43:00 029 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:19:43:00 050 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:19:43:00 056 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:19:43:00 062 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:19:43:00 079 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:19:43:00 085 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:19:43:00 087 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:19:43:00 093 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:19:43:00 100 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:19:43:00 102 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:19:43:00 103 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:19:43:00 104 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:19:43:00 108 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:19:43:00 113 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:19:43:00 114 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:19:43:00 116 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:19:43:00 120 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:19:43:00 123 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:19:43:00 128 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:19:43:00 130 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:19:43:00 151 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:19:43:00 159 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:19:43:00 160 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:19:43:00 163 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:19:43:00 167 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:19:43:00 168 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:19:43:00 168 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:19:43:00 169 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:19:43:00 177 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:19:43:00 181 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:19:43:00 186 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 5.0
+11/Mar/2021:19:43:00 187 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 120.0
+11/Mar/2021:19:43:52 967 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:19:43:52 993 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:19:43:53 001 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:19:43:53 006 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:19:43:53 017 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:19:43:53 030 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:19:43:53 031 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:19:43:53 038 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:19:43:53 051 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:19:43:53 061 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:19:43:53 063 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:19:43:53 066 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:19:43:53 074 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:19:43:53 079 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:19:43:53 081 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:19:43:53 083 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:19:43:53 093 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:19:43:53 096 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:19:43:53 099 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:19:43:53 104 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:19:43:53 136 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:19:43:53 150 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:19:43:53 160 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:19:43:53 162 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:19:43:53 164 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:19:43:53 166 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:19:43:53 168 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:19:43:53 177 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:19:43:53 186 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:19:43:53 187 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:19:43:53 190 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 5.0
+11/Mar/2021:19:43:53 193 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 120.0
+11/Mar/2021:20:00:35 237 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:20:00:35 247 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:20:00:35 253 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:20:00:35 255 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:20:00:35 262 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:20:00:35 266 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:20:00:35 268 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:20:00:35 271 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:20:00:35 274 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:20:00:35 277 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:20:00:35 280 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:20:00:35 281 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:20:00:35 289 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:20:00:35 291 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:20:00:35 293 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:20:00:35 295 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:20:00:35 297 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:20:00:35 298 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:20:00:35 299 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:20:00:35 302 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:20:00:35 323 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:20:00:35 325 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:20:00:35 326 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:20:00:35 326 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:20:00:35 328 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:20:00:35 329 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:20:00:35 329 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:20:00:35 330 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:20:00:35 334 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:20:00:35 335 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:20:00:35 338 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 5.0
+11/Mar/2021:20:00:35 340 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 120.0
+11/Mar/2021:20:00:59 116 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:20:00:59 134 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:20:00:59 136 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:20:00:59 139 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:20:00:59 149 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:20:00:59 158 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:20:00:59 160 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:20:00:59 162 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:20:00:59 168 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:20:00:59 171 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:20:00:59 172 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:20:00:59 173 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:20:00:59 177 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:20:00:59 181 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:20:00:59 182 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:20:00:59 183 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:20:00:59 186 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:20:00:59 187 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:20:00:59 188 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:20:00:59 189 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:20:00:59 209 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:20:00:59 210 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:20:00:59 211 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:20:00:59 215 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:20:00:59 218 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:20:00:59 221 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:20:00:59 221 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:20:00:59 222 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:20:00:59 224 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:20:00:59 229 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:20:00:59 232 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 5.0
+11/Mar/2021:20:00:59 235 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 120.0
+11/Mar/2021:23:51:36 833 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:23:51:36 848 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:23:51:36 855 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:23:51:36 861 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:23:51:36 878 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:23:51:36 883 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:23:51:36 886 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:23:51:36 892 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:23:51:36 900 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:23:51:36 904 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:23:51:36 911 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:23:51:36 912 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:23:51:36 918 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:23:51:36 919 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:23:51:36 923 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:23:51:36 925 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:23:51:36 931 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:23:51:36 933 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:23:51:36 936 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:23:51:36 942 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:23:51:36 978 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:23:51:36 980 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:23:51:36 982 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:23:51:36 986 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:23:51:36 993 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:23:51:36 994 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:23:51:36 998 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:23:51:37 001 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:23:51:37 004 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:23:51:37 011 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:23:51:37 014 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 5.0
+11/Mar/2021:23:51:37 020 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 120.0
+11/Mar/2021:23:57:20 948 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:23:57:20 960 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:23:57:20 963 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+11/Mar/2021:23:57:20 967 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+11/Mar/2021:23:57:20 978 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:23:57:20 980 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:23:57:20 983 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+11/Mar/2021:23:57:20 985 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+11/Mar/2021:23:57:20 991 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:23:57:20 993 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:23:57:20 996 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:23:57:20 997 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:23:57:20 999 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+11/Mar/2021:23:57:21 000 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+11/Mar/2021:23:57:21 002 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+11/Mar/2021:23:57:21 002 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+11/Mar/2021:23:57:21 006 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+11/Mar/2021:23:57:21 007 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+11/Mar/2021:23:57:21 009 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+11/Mar/2021:23:57:21 010 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+11/Mar/2021:23:57:21 027 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:23:57:21 031 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:23:57:21 032 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+11/Mar/2021:23:57:21 034 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+11/Mar/2021:23:57:21 035 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+11/Mar/2021:23:57:21 036 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+11/Mar/2021:23:57:21 036 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+11/Mar/2021:23:57:21 037 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+11/Mar/2021:23:57:21 039 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+11/Mar/2021:23:57:21 043 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+11/Mar/2021:23:57:21 044 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 5.0
+11/Mar/2021:23:57:21 048 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 120.0
+12/Mar/2021:01:15:06 044 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+12/Mar/2021:01:15:06 090 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+12/Mar/2021:01:15:06 098 [Calculator.java] [INFO] Calculator.Calculator Square root of number 12.0
+12/Mar/2021:01:15:06 108 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 3.4641016151377544
+12/Mar/2021:01:15:06 117 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+12/Mar/2021:01:15:06 130 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+12/Mar/2021:01:15:06 139 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 7.0
+12/Mar/2021:01:15:06 144 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 5040.0
+12/Mar/2021:01:15:06 158 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+12/Mar/2021:01:15:06 162 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+12/Mar/2021:01:15:06 164 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+12/Mar/2021:01:15:06 167 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+12/Mar/2021:01:15:06 181 [Calculator.java] [INFO] Calculator.Calculator Square root of number 81.0
+12/Mar/2021:01:15:06 186 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 9.0
+12/Mar/2021:01:15:06 189 [Calculator.java] [INFO] Calculator.Calculator Square root of number 16.0
+12/Mar/2021:01:15:06 191 [Calculator.java] [INFO] Calculator.Calculator Result of Square root  is 4.0
+12/Mar/2021:01:15:06 208 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 4.0
+12/Mar/2021:01:15:06 212 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 1.3862943611198906
+12/Mar/2021:01:15:06 214 [Calculator.java] [INFO] Calculator.Calculator NAtural logrithm of numbers 8.0
+12/Mar/2021:01:15:06 216 [Calculator.java] [INFO] Calculator.Calculator Result of Natural log is 2.0794415416798357
+12/Mar/2021:01:15:06 276 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+12/Mar/2021:01:15:06 288 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+12/Mar/2021:01:15:06 296 [Calculator.java] [INFO] Calculator.Calculator power of numbers 3.0 and 3.0
+12/Mar/2021:01:15:06 308 [Calculator.java] [INFO] Calculator.Calculator Result of power is 27.0
+12/Mar/2021:01:15:06 322 [Calculator.java] [INFO] Calculator.Calculator power of numbers 2.0 and 3.0
+12/Mar/2021:01:15:06 323 [Calculator.java] [INFO] Calculator.Calculator Result of power is 8.0
+12/Mar/2021:01:15:06 325 [Calculator.java] [INFO] Calculator.Calculator power of numbers 4.0 and 3.0
+12/Mar/2021:01:15:06 333 [Calculator.java] [INFO] Calculator.Calculator Result of power is 64.0
+12/Mar/2021:01:15:06 342 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 3.0
+12/Mar/2021:01:15:06 343 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 6.0
+12/Mar/2021:01:15:06 348 [Calculator.java] [INFO] Calculator.Calculator Factorial  of number 5.0
+12/Mar/2021:01:15:06 360 [Calculator.java] [INFO] Calculator.Calculator Result of Factorial log is 120.0
