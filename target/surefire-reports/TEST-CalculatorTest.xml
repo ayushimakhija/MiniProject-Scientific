@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="CalculatorTest" time="1.488" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="CalculatorTest" time="1.549" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.3.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -25,11 +25,11 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Linux"/>
-    <property name="maven.ext.class.path" value="/snap/intellij-idea-ultimate/282/plugins/maven/lib/maven-event-listener.jar"/>
-    <property name="classworlds.conf" value="/snap/intellij-idea-ultimate/282/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="maven.ext.class.path" value="/snap/intellij-idea-ultimate/285/plugins/maven/lib/maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="/snap/intellij-idea-ultimate/285/plugins/maven/lib/maven3/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
-    <property name="maven.conf" value="/snap/intellij-idea-ultimate/282/plugins/maven/lib/maven3/conf"/>
+    <property name="maven.conf" value="/snap/intellij-idea-ultimate/285/plugins/maven/lib/maven3/conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -41,7 +41,7 @@
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.specification.version" value="11"/>
     <property name="user.name" value="ayushi"/>
-    <property name="java.class.path" value="/snap/intellij-idea-ultimate/282/plugins/maven/lib/maven3/boot/plexus-classworlds-2.6.0.jar:/snap/intellij-idea-ultimate/282/plugins/maven/lib/maven3/boot/plexus-classworlds.license"/>
+    <property name="java.class.path" value="/snap/intellij-idea-ultimate/285/plugins/maven/lib/maven3/boot/plexus-classworlds-2.6.0.jar:/snap/intellij-idea-ultimate/285/plugins/maven/lib/maven3/boot/plexus-classworlds.license"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2020.3.3 clean install"/>
@@ -53,7 +53,7 @@
     <property name="java.version" value="11.0.10"/>
     <property name="securerandom.source" value="file:/dev/./urandom"/>
     <property name="java.vendor" value="Ubuntu"/>
-    <property name="maven.home" value="/snap/intellij-idea-ultimate/282/plugins/maven/lib/maven3"/>
+    <property name="maven.home" value="/snap/intellij-idea-ultimate/285/plugins/maven/lib/maven3"/>
     <property name="file.separator" value="/"/>
     <property name="java.version.date" value="2021-01-19"/>
     <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
@@ -62,12 +62,12 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="CalculatorTest" name="SquarerootFalsePositive" time="1.383"/>
-  <testcase classname="CalculatorTest" name="FactorialFalsePositive" time="0.021"/>
-  <testcase classname="CalculatorTest" name="NaturallogrithmFalsePositive" time="0.014"/>
-  <testcase classname="CalculatorTest" name="SquarerootTruePositive" time="0.01"/>
-  <testcase classname="CalculatorTest" name="NaturallogrithmTruePositive" time="0.016"/>
-  <testcase classname="CalculatorTest" name="PowerTruePositive" time="0.033"/>
-  <testcase classname="CalculatorTest" name="PowerTrueNegative" time="0.006"/>
-  <testcase classname="CalculatorTest" name="FactorialTruePositive" time="0.005"/>
+  <testcase classname="CalculatorTest" name="SquarerootFalsePositive" time="1.44"/>
+  <testcase classname="CalculatorTest" name="FactorialFalsePositive" time="0.014"/>
+  <testcase classname="CalculatorTest" name="NaturallogrithmFalsePositive" time="0.006"/>
+  <testcase classname="CalculatorTest" name="SquarerootTruePositive" time="0.007"/>
+  <testcase classname="CalculatorTest" name="NaturallogrithmTruePositive" time="0.009"/>
+  <testcase classname="CalculatorTest" name="PowerTruePositive" time="0.048"/>
+  <testcase classname="CalculatorTest" name="PowerTrueNegative" time="0.009"/>
+  <testcase classname="CalculatorTest" name="FactorialTruePositive" time="0.016"/>
 </testsuite>
